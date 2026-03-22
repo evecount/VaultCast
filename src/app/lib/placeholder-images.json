@@ -1,0 +1,41 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract cinematic background",
+      "imageUrl": "https://picsum.photos/seed/vaultcast-hero/1920/1080",
+      "imageHint": "cinematic abstract"
+    },
+    {
+      "id": "creator-avatar",
+      "description": "Main creator profile avatar",
+      "imageUrl": "https://picsum.photos/seed/creator-avatar/100/100",
+      "imageHint": "professional person"
+    },
+    {
+      "id": "video-1",
+      "description": "Cinematic tech review",
+      "imageUrl": "https://picsum.photos/seed/video1/800/450",
+      "imageHint": "technology hardware"
+    },
+    {
+      "id": "video-2",
+      "description": "Coding masterclass",
+      "imageUrl": "https://picsum.photos/seed/video2/800/450",
+      "imageHint": "coding screen"
+    },
+    {
+      "id": "video-3",
+      "description": "Digital marketing secrets",
+      "imageUrl": "https://picsum.photos/seed/video3/800/450",
+      "imageHint": "business growth"
+    },
+    {
+      "id": "video-4",
+      "description": "UI/UX Design principles",
+      "imageUrl": "https://picsum.photos/seed/video4/800/450",
+      "imageHint": "design aesthetics"
+    }
+  ]
+}
