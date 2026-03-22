@@ -1,0 +1,15 @@
+Build a premium video subscription platform called "VaultCast" using Next.js 15, Tailwind CSS, and ShadCN UI. 
+
+The application should cater to professional creators who want to host gated content. Key features include:
+
+1. A sleek, cinematic landing page featuring a trending video library.
+2. A subscription system with three tiers: Free, Basic ($9/mo), and Premium ($29/mo).
+3. A comprehensive Creator Dashboard with:
+   - Revenue analytics using charts.
+   - Subscriber management overview.
+   - A video upload interface.
+4. AI Integration using Genkit:
+   - Automate video description generation based on title and tags.
+   - Suggest relevant SEO tags based on video content details.
+5. Use a dark, professional theme with deep purples and high-contrast accents.
+6. Ensure the UI is responsive and follows high-end visual design patterns (rounded corners, subtle shadows, glassmorphism).
